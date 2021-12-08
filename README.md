@@ -11,4 +11,4 @@ Como ejecutar el programa.
 3-Ubicarse en la opcion de 'program file' y dar clic
 4-Aparecera una ventana de explorador de documentos,
 5-Buscar dentro de la carpeta codigo fuente adjuntado al programa la siguiente ruta "\Prueba_KeypadPIC16F628A.X\dist\default\production\Prueba_KeypadPIC16F628A.X.production.hex"
-6-Proceder a ejecutar la simulacion con proteus
+6-Proceder a ejecutar la simulacion con proteus.
